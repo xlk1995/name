@@ -21,7 +21,7 @@
 
 .btn {
   font-size: 16px;
-  background-color: aquamarine;
+  background-color: #7b8b6f;
   color: #fff;
   text-align: center;
   line-height: 32px;
@@ -37,11 +37,11 @@ input {
 }
 
 input:focus {
-  border: 1px solid aquamarine;
+  border: 1px solid #7b8b6f;
 }
 
 .text-wrapper {
-  color: aquamarine;
+  color: #7b8b6f;
   font-size: 16px;
   padding: 0 15px;
 }
