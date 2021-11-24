@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  background: url('/css/2.jpeg') no-repeat center center;
+  background-size: 100% 100%;
+}
+
+.input-wrapper {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  padding-top: 100px;
+}
+
+.btn {
+  font-size: 16px;
+  background-color: aquamarine;
+  color: #fff;
+  text-align: center;
+  line-height: 32px;
+  width: 60px;
+  line-height: 30px;
+  height: 32px;
+}
+
+input {
+  outline: none;
+  border: 1px solid transparent;
+  height: 30px;
+}
+
+input:focus {
+  border: 1px solid aquamarine;
+}
+
+.text-wrapper {
+  color: aquamarine;
+  font-size: 16px;
+  padding: 0 15px;
+}
