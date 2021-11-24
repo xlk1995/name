@@ -6,7 +6,7 @@
 .wrapper {
   width: 100vw;
   height: 100vh;
-  background: url('./1.jpeg') no-repeat center center;
+  background: url('1.jpeg') no-repeat center center;
   background-size: 100% 100%;
 }
 
